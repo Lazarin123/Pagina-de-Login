@@ -40,3 +40,14 @@ body {
     color: #ffffff;
     margin-bottom: 25px;
 }
+
+.botao {
+    background-color: #fff;
+    font-weight: 400;
+}
+
+.botao:hover {
+    background-color: #666;
+    color: #fff;
+    font-weight: 500;
+}
