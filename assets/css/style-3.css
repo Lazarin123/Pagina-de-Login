@@ -40,25 +40,3 @@ body {
     color: #ffffff;
     margin-bottom: 25px;
 }
-
-.formlogin input {
-    padding: 15px;
-    font-size: 14px;
-    border: 1px solid #ccc;
-    margin-bottom: 20px;
-    margin-top: 6px;
-    border-radius: 6px;
-    transition: all linear 190ms;
-    outline: none;
-}
-
-.botao {
-    background-color: #fff;
-    font-weight: 400;
-}
-
-.botao:hover {
-    background-color: #666;
-    color: #fff;
-    font-weight: 500;
-}
